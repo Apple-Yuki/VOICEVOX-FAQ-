@@ -113,5 +113,7 @@ VOICEVOX単体で歌わせることはできません。話すことは可能で
 ### Q.問い合わせ先を教えてください。
 ご感想・ご要望は、ぜひ Twitter にてハッシュタグ `#VOICEVOX` を付けてツイートしてください。
 
-うまく動かない場合や不具合を見つけられた方は以下の内容を添えてハッシュタグ `#VOICEVOX` を付けてツイートしていただくか、VOICEVOX公式（[@voicevox_pj](https://twitter.com/voicevox_pj)）までご報告ください。  
-その他何かご質問があれば「[よくあるご質問 （FAQ）」をご覧いただき、解決ない場合、[@hiho_karuta](https://twitter.com/hiho_karuta)までお問い合わせください。
+うまく動かない場合や不具合を見つけられた方は以下の内容を添えてハッシュタグ `#VOICEVOX` を付けてツイートしていただくか、  
+VOICEVOX公式（[@voicevox_pj](https://twitter.com/voicevox_pj)）までご報告ください。  
+その他何かご質問があれば「[よくあるご質問 （FAQ）」をご覧いただき、  
+解決ない場合、[@hiho_karuta](https://twitter.com/hiho_karuta)までお問い合わせください。
