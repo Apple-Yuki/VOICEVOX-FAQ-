@@ -23,11 +23,6 @@ layout: default
           {%- assign date_format = "%b %-d, %Y" -%}
           {{ post.date | date: date_format }}
         </span>
-        <p class="h5">
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
