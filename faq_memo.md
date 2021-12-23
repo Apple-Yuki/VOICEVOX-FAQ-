@@ -104,7 +104,8 @@ VOICEVOX単体で歌わせることはできません。話すことは可能で
 はい、できます。
 
 ### Q.VOICEVOXの開発に協力したい。
-不具合の修正など、誰でもVOICEVOXの開発や修正にもご参加頂けます。
+不具合の修正など、誰でもVOICEVOXの開発や修正にもご参加頂けます。  
+以下のコミュニティーをご確認ください。
 - [VOICEVOX エディター](https://github.com/Hiroshiba/voicevox)
 - [VOICEVOX エンジン](https://github.com/Hiroshiba/voicevox_engine)
 - [VOICEVOX コア](https://github.com/Hiroshiba/voicevox_core)
