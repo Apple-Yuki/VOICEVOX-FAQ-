@@ -1,5 +1,5 @@
 # VOICEVOX よくあるご質問 （FAQ）
-  
+    
 ## 動作環境・仕様に関する質問
 ### Q.動作環境を教えてください。Windows、 MacのOSに対応していますか？
 Windows 10以上、macOS 11 Big Sur以降に対応しています。
