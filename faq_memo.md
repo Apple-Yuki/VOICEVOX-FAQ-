@@ -81,7 +81,7 @@ GPU モードでよく発生する現象で、長い音声を生成するには�
 ### Q.電話音声など、音声のみを使いたい、仕事に使いたいのですが使用してもよいでしょうか？
 VOICEVOXの通常ライセンスは個人のみに利用を仮定しております。  
 電話音声など、音声のみを使いたい場合は各ライブラリーの音源利用規約をご覧ください。  
-また、商用でご利用の場合は、各ライブラリー商用ライセンスを別途用意する必要がある可能性がございます。  
+また、法人でのご利用、商用でご利用の場合は、各ライブラリー商用ライセンスを別途用意する必要がある可能性がございます。  
 音源利用規約は以下の通りです。  
 - [ずんだもん、四国めたん ](https://zunko.jp/con_ongen_kiyaku.html)
 - [春日部つむぎ](https://tsukushinyoki10.wixsite.com/ktsumugiofficial/利用規約)
@@ -109,3 +109,9 @@ VOICEVOX単体で歌わせることはできません。話すことは可能で
 - [VOICEVOX エディター](https://github.com/Hiroshiba/voicevox)
 - [VOICEVOX エンジン](https://github.com/Hiroshiba/voicevox_engine)
 - [VOICEVOX コア](https://github.com/Hiroshiba/voicevox_core)
+
+### Q.問い合わせ先を教えてください。
+ご感想・ご要望は、ぜひ Twitter にてハッシュタグ `#VOICEVOX` を付けてツイートしてください。
+
+うまく動かない場合や不具合を見つけられた方は以下の内容を添えてハッシュタグ `#VOICEVOX` を付けてツイートしていただくか、VOICEVOX公式（[@voicevox_pj](https://twitter.com/voicevox_pj)）までご報告ください。  
+その他何かご質問があれば「[よくあるご質問 （FAQ）」をご覧いただき、解決ない場合、[@hiho_karuta](https://twitter.com/hiho_karuta)までお問い合わせください。
