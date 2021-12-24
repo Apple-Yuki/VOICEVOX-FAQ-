@@ -118,27 +118,52 @@
               </header>
           
               <div class="p-5 mb-4 bg-light rounded-3">
+                  <h2>動作環境・仕様に関する質問</h2>
                 <div class="qa-list mts">
                     <dl class="qa">
-                    <dt>ここに質問が入ります</dt>
+                    <dt>動作環境を教えてください。Windows、 MacのOSに対応していますか？</dt>
                     <dd>
-                    <p>ここに回答が入ります</p>
-                    </dd>
-                    </dl>
-                    <dl class="qa">
-                    <dt>ここに質問が入ります</dt>
-                    <dd>
-                    <p>ここに回答が入ります</p>
-                    </dd>
-                    </dl>
-                    <dl class="qa">
-                    <dt>ここに質問が入ります</dt>
-                    <dd>
-                    <p>ここに回答が入ります</p>
+                    <p>Windows 10以上、macOS 11 Big Sur以降に対応しています。<br />またLinux OSにも対応しています。</p>
                     </dd>
                     </dl>
                     </div>
               </div>
+              <div class="p-5 mb-4 bg-light rounded-3">
+                <h2>インストールに関する質問</h2>
+              <div class="qa-list mts">
+                  <dl class="qa">
+                  <dt>インストールディレクトリはどこですか？</dt>
+                  <dd>
+                    <h4 id="windows">Windows版</h4>
+                    デフォルトのインストール先は下記の場所です。<br />
+                    <code class="language-plaintext highlighter-rouge">C:\Users\(ユーザー名)\AppData\Local\Programs\VOICEVOX</code></p>
+                    
+                    <h4 id="mac">Mac版</h4>
+                    <p>ダウンロードした「VOICEVOX」を手動でコピーした「アプリケーション」フォルダにあります。<br />
+                    デフォルトのディレクトリは下記の場所です。<br />
+                    <code class="language-plaintext highlighter-rouge">/Applications</code></p>
+                    
+                    <p>なお、システム管理者が制限を課してインストールしている場合は、以下のディレクトリに保存されることがあります。<br />
+                    <code class="language-plaintext highlighter-rouge">/Users/(UserNames)/Applications</code>
+                  </dd>
+                  </dl>
+                  <dl class="qa">
+                  <dt>Apple Silicon搭載のMacを使ってますがVOICEVOXは使えますか？</dt>
+                  <dd>
+                  <p>はい、使えます。なお、Rosettaをインストールする必要があります。<br />
+                    過去にIntel 搭載モデルの Mac 用に開発された Appを使ったことがない方は、「VOICEVOX」をはじめて開く際に、Rosetta をインストールするかどうかを確認するメッセージが表示されます。<br />
+                    Rosetta をいったんインストールしたら、Rosetta を必要とするほかの App でも使えるようになるので、再びインストールするよう案内されることはありません。</p>
+                    
+                    <p>Apple Silicon搭載のMacとRosettaの詳しい情報はこちらのリソースをご覧ください。（Appleサポートページに飛びます）</p>
+                    <ul>
+                      <li><a href="https://support.apple.com/ja-jp/HT211814">Apple シリコン搭載の Mac コンピュータに関して</a></li>
+                      <li><a href="https://support.apple.com/ja-jp/HT211861">Mac に Rosetta をインストールする必要がある場合</a></li>
+                      <li><a href="https://support.apple.com/ja-jp/guide/security/secebb113be1/web">技術情報:Appleシリコン搭載MacのRosetta 2</a></li>
+                    </ul></p>
+                  </dd>
+                  </dl>
+                  </div>
+            </div>
           
               <footer class="pt-3 mt-4 text-muted border-top">
                 &copy; 2021
